@@ -23,7 +23,7 @@ ShopHere uses real-time database updates to ensure that product information, sto
 ## 5. Ordering Products Using a Credit Card and Address
 Customers can place orders for products they wish to purchase. The website offers a secure payment system that allows users to use their credit cards for transactions. Users can also provide a shipping address to receive the ordered products.
 
-## Installation and Usage
+# Installation and Usage
 To deploy ShopHere locally, follow these steps:
 
 - Clone the repository: git clone https://github.com/malshancs/ShopHere.git
