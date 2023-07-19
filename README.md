@@ -33,6 +33,9 @@ To deploy ShopHere locally, follow these steps:
 - Launch the website by running it on your web server.
 - Make sure to update the database credentials and other sensitive information with your own to ensure security.
 
+# License
+This project is licensed under the MIT License.
+
 # Contributing
 Contributions to ShopHere are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please submit a pull request.
 
