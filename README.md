@@ -9,19 +9,19 @@ ShopHere is an Ecommerce website developed as a part of the CS3043-Database Syst
 
 # Functionalities
 ## 1. Login and Signup
-ShopHere provides a secure login and signup system for users. New users can register by providing necessary information, and existing users can log in to access their accounts. Passwords are hashed and stored securely in the database.
+- ShopHere provides a secure login and signup system for users. New users can register by providing necessary information, and existing users can log in to access their accounts. Passwords are hashed and stored securely in the database.
 
-## 2. Browsing Through Product Catalogue
-Users can browse through the extensive product catalog offered by ShopHere. Products are displayed in a user-friendly manner, making it easy for customers to find what they need.
+### 2. Browsing Through Product Catalogue
+- Users can browse through the extensive product catalog offered by ShopHere. Products are displayed in a user-friendly manner, making it easy for customers to find what they need.
 
-## 3. Sorting Products Based on Categories
-To enhance user experience, products can be sorted based on categories. This feature allows users to quickly find products of interest without having to scroll through the entire catalog.
+### 3. Sorting Products Based on Categories
+- To enhance user experience, products can be sorted based on categories. This feature allows users to quickly find products of interest without having to scroll through the entire catalog.
 
-## 4. Real-Time Database Updates
-ShopHere uses real-time database updates to ensure that product information, stock availability, and prices remain up-to-date. This way, customers always have access to the latest product details.
+### 4. Real-Time Database Updates
+- ShopHere uses real-time database updates to ensure that product information, stock availability, and prices remain up-to-date. This way, customers always have access to the latest product details.
 
-## 5. Ordering Products Using a Credit Card and Address
-Customers can place orders for products they wish to purchase. The website offers a secure payment system that allows users to use their credit cards for transactions. Users can also provide a shipping address to receive the ordered products.
+### 5. Ordering Products Using a Credit Card and Address
+- Customers can place orders for products they wish to purchase. The website offers a secure payment system that allows users to use their credit cards for transactions. Users can also provide a shipping address to receive the ordered products.
 
 # Installation and Usage
 To deploy ShopHere locally, follow these steps:
