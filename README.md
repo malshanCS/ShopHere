@@ -11,8 +11,10 @@ ShopHere is an Ecommerce website developed as a part of the CS3043-Database Syst
 ## 1. Login and Signup
 - ShopHere provides a secure login and signup system for users. New users can register by providing necessary information, and existing users can log in to access their accounts. Passwords are hashed and stored securely in the database.
 
+
 ### 2. Browsing Through Product Catalogue
 - Users can browse through the extensive product catalog offered by ShopHere. Products are displayed in a user-friendly manner, making it easy for customers to find what they need.
+
 
 ### 3. Sorting Products Based on Categories
 - To enhance user experience, products can be sorted based on categories. This feature allows users to quickly find products of interest without having to scroll through the entire catalog.
@@ -32,6 +34,28 @@ To deploy ShopHere locally, follow these steps:
 - Configure the database connection in config.php with your database credentials.
 - Launch the website by running it on your web server.
 - Make sure to update the database credentials and other sensitive information with your own to ensure security.
+
+# Screenshots
+
+#### Home Page
+<img src="Web/screenshots/home page.png" alt="home page" width="600"/>
+
+#### Login Screen
+<img src="Web/screenshots/login.png" alt="Login Screen" width="600"/>
+
+#### Signup Screen
+<img src="Web/screenshots/signup.png" alt="signup Screen" width="600"/>
+
+#### Product Catalogue screen
+<img src="Web/screenshots/Product Catalogue.png" alt="Product Catalogue Screen" width="600"/>
+
+#### Product details screen
+<img src="Web/screenshots/product.png" alt="Product details screen" width="600"/>
+
+#### Cart screen
+<img src="Web/screenshots/cart.png" alt="Cart screen" width="600"/>
+
+
 
 # License
 This project is licensed under the MIT License.
